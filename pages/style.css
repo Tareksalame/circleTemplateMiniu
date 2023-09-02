@@ -22,7 +22,7 @@ body
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 85%;
+    width: 300px;
     border: 10px solid rgb(254, 246, 224);
     border-radius: 50%;
 }
@@ -147,7 +147,7 @@ body
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 70%;
+    width: 500px;
     border: 10px solid rgb(254, 246, 224);
     border-radius: 50%;
 }
