@@ -1,0 +1,121 @@
+body
+{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(97, 103, 121);
+}
+.header
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.logoDiv
+{
+    display: flex;
+    height: 300px;
+    width: 85%;
+    border: 10px solid rgb(254, 246, 224);
+    border-radius: 50%;
+}
+.titleDiv
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    color: rgb(216, 217, 218);
+    border-bottom: 5px solid rgb(254, 246, 224);
+    border-style: double;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+#circleDiv
+{
+    border: 0px solid black;
+    height: 300px;
+    width: 300px;
+    margin-top: 10%;
+    border-radius: 50%;
+}
+#firstLink
+{
+    position: relative;
+    top: 23%;
+    right: 5%;
+    text-decoration: none;
+}
+#secondLink
+{
+    position: relative;
+    text-decoration: none;
+
+}
+#thirdLink
+{
+    position: relative;
+    top: 23%; 
+    left: 5%;   
+    text-decoration: none;
+
+}
+#fourthLink
+{
+    position: relative;
+    top: 25%;
+    right: 5%;
+    text-decoration: none;
+
+}
+#fifthLink
+{
+    position: relative;
+    top: 25%;
+    left: 32%;
+    text-decoration: none;
+
+}
+#sixthLink
+{
+    position: relative;
+    top: 47%;
+    right: 27%;
+    text-decoration: none;
+
+}
+.LinkIcon
+{
+    width: 20%;
+    border: 5px solid rgb(254, 246, 224);
+    border-radius: 50%;
+    padding: 2%;
+    background-color: rgb(216, 217, 218) ;
+}
+
+#miniuDiv
+{
+    /* bottom: 0px; */
+    /* position: fixed; */
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-self: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10px;
+}
+#design
+{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
